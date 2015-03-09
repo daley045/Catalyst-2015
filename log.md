@@ -38,7 +38,7 @@ List
 
 [LINK](httpp://sam-daley.squarespace.com)
 
-![IMAGE](image/classroom.jpg)
+![IMAGE](Image/MondayMarch9/photo 1.JPG)
 
 *Italics*
 
@@ -54,9 +54,10 @@ fetch
 pull
 push
 
-Sams-MacBook-Pro-4:Catalyst-2015 samdaley$ git remote -v 				changes happen
-Sams-MacBook-Pro-4:Catalyst-2015 samdaley$ git add --all				discription (metadata)
-Sams-MacBook-Pro-4:Catalyst-2015 samdaley$ git push origin master		update to github
+Sams-MacBook-Pro-4:Catalyst-2015 samdaley$ git remote -v 					changes happen
+Sams-MacBook-Pro-4:Catalyst-2015 samdaley$ git add --all					set the stage
+Sams-MacBook-Pro-4:Catalyst-2015 samdaley$ git commit -m "Updated Notes"	discription (metadata)
+Sams-MacBook-Pro-4:Catalyst-2015 samdaley$ git push origin master			update to github
 
 5. For tomorrow
 	Question - What Site?
