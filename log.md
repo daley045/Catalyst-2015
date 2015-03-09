@@ -39,11 +39,11 @@ List
 
 [LINK](httpp://umn.edu)
 
-![IMAGE](Image/MondayMarch9/andrea.JPG)
+![IMAGE](Image/MondayMarch9/andrea.jpg)
 
-![IMAGE](Image/MondayMarch9/dustin.JPG)
+![IMAGE](Image/MondayMarch9/dustin.jpg)
 
-![IMAGE](Image/MondayMarch9/jeramy.JPG)
+![IMAGE](Image/MondayMarch9/jeramy.jpg)
 
 *Italics*
 
