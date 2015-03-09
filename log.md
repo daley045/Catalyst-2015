@@ -1,6 +1,7 @@
 Monday March 9, 2015.
 
 #1. Introduction to Machine Vision
+##Today our Instructor did Battle with A Robot
 
 #2. Blue Sky Dreaming
 
@@ -64,6 +65,7 @@ Sams-MacBook-Pro-4:Catalyst-2015 samdaley$ git commit -m "Updated Notes"	discrip
 Sams-MacBook-Pro-4:Catalyst-2015 samdaley$ git push origin master			update to github
 
 Sams-MacBook-Pro-4:Catalyst-2015 samdaley$ git push origin master			update to github
+
 
 5. For tomorrow
 	Question - What Site?
