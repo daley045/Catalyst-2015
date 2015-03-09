@@ -24,7 +24,7 @@ pwd - print working drive
 cd - change directory
 ls - list selected
 
-#Markdown (.md)
+####Markdown (.md)
 
 #Title
 ##Subtitle
@@ -36,9 +36,13 @@ List
 * two
 * three
 
-[LINK](httpp://sam-daley.squarespace.com)
+[LINK](httpp://umn.edu)
 
-![IMAGE](Image/MondayMarch9/photo 1.JPG)
+![IMAGE](Image/MondayMarch9/andrea.JPG)
+
+![IMAGE](Image/MondayMarch9/dustin.JPG)
+
+![IMAGE](Image/MondayMarch9/jeramy.JPG)
 
 *Italics*
 
@@ -57,6 +61,8 @@ push
 Sams-MacBook-Pro-4:Catalyst-2015 samdaley$ git remote -v 					changes happen
 Sams-MacBook-Pro-4:Catalyst-2015 samdaley$ git add --all					set the stage
 Sams-MacBook-Pro-4:Catalyst-2015 samdaley$ git commit -m "Updated Notes"	discription (metadata)
+Sams-MacBook-Pro-4:Catalyst-2015 samdaley$ git push origin master			update to github
+
 Sams-MacBook-Pro-4:Catalyst-2015 samdaley$ git push origin master			update to github
 
 5. For tomorrow
