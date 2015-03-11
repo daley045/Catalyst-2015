@@ -36,7 +36,7 @@ Sams-MacBook-Pro-4:desktop samdaley$ pwd
 Sams-MacBook-Pro-4:desktop samdaley$ ls
 Catalyst-2015			Google Drive			som.prize.2015.pdf		text.txt
 Daley_Programing Plan.pdf	Time Conflict Form.pdf		spring TA - daley045@umn.pdf
-Sams-MacBook-Pro-4:desktop samdaley$ cd Catalyst-2015
+Sams-MacBook-Pro-4:desktop samdaley$ 
 Sams-MacBook-Pro-4:Catalyst-2015 samdaley$ ls
 LICENSE		README.md
 Sams-MacBook-Pro-4:Catalyst-2015 samdaley$ touch log.md
